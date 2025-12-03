@@ -1,6 +1,6 @@
 # 🤖 DEEP-API
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 
 The Ultimate DeepSeek Chat Library for Python 🚀
 
