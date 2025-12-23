@@ -28,7 +28,7 @@ print("""
     the free api library of deepseek
             ｂｙ ｂ１ｔ０ｎｅ
         tg: https://t.me/u53rnm3
-    github: https://github.com/ArtemChikc""")
+    github: https://github.com/b1t0nese""")
 
 from undetected_chromedriver import Chrome
 from selenium.webdriver.common.by import By
